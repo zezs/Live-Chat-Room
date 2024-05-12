@@ -4,7 +4,7 @@ About:
 
 > Effortless Group Communication: Developed with Python, Flask, and Flask-SocketIO, this application allows for seamless communication with an unlimited number of participants. Messages are instantly updated, ensuring smooth and uninterrupted group discussions.
 
-> Persistent Chat History: Even if you refresh the page, your chat history remains intact. Utilizing a simple data structure, the application stores previous messages, allowing users to seamlessly resume conversations without losing any valuable content
+> Persistent Chat History: Even if you refresh the page, your chat history remains intact. Utilizing a simple data structure, the application stores previous messages, allowing users to seamlessly resume conversations without losing chat history
 
 
 
